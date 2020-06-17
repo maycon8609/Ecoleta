@@ -4,3 +4,5 @@ uploads/*.jpg
 uploads/*.jpeg
 uploads/*.git
 !uploads/.gitkeep
+
+*.sqlite
